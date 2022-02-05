@@ -1,6 +1,8 @@
 ## DSPSR
 
-[![pipeline status](https://gitlab.com/ska-telescope/dspsr/badges/master/pipeline.svg)](https://gitlab.com/ska-telescope/dspsr/commits/master)
+RSW: Copied snapshot from DSPSR sourceforge site for use with DSN:
+
+ https://sourceforge.net/p/dspsr/code/ci/20a64c8f6f554e0a47fb0b4dadb04b522420aaac/tree/
 
 ### Documentation
 
